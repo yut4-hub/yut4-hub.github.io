@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Yu_田</title>
+    <link href="http://example.com" />
+    <updated>2024-07-19T10:35:43.064Z</updated>
+    <entry>
+        <id>http://example.com/2024/07/19/index/</id>
+        <title></title>
+        <link rel="alternate" href="http://example.com/2024/07/19/index/"/>
+        <content type="html">&lt;p&gt;layout: page&lt;/p&gt;
+</content>
+        <updated>2024-07-19T10:35:43.064Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2024/07/18/hello-world/</id>
+        <title>Hello World</title>
+        <link rel="alternate" href="http://example.com/2024/07/18/hello-world/"/>
+        <content type="html">&lt;p&gt;this is a welcome page for this blog.&lt;/p&gt;
+&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;</content>
+        <updated>2024-07-18T13:55:25.217Z</updated>
+    </entry>
+</feed>
