@@ -1,17 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Yu_田",
+    "title": "Yu_田 • All posts by \"engine page\" category",
     "description": "",
     "home_page_url": "http://example.com",
     "items": [
-        {
-            "id": "http://example.com/2024/07/19/index/",
-            "url": "http://example.com/2024/07/19/index/",
-            "title": "",
-            "date_published": "2024-07-19T10:35:43.064Z",
-            "content_html": "<p>layout: page</p>\n",
-            "tags": []
-        },
         {
             "id": "http://example.com/2024/07/18/hello-world/",
             "url": "http://example.com/2024/07/18/hello-world/",

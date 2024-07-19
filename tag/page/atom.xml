@@ -1,18 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Yu_田</title>
+    <title>Yu_田 • Posts by &#34;page&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2024-07-19T10:35:43.064Z</updated>
+    <updated>2024-07-18T13:55:25.217Z</updated>
     <category term="page" />
-    <entry>
-        <id>http://example.com/2024/07/19/index/</id>
-        <title></title>
-        <link rel="alternate" href="http://example.com/2024/07/19/index/"/>
-        <content type="html">&lt;p&gt;layout: page&lt;/p&gt;
-</content>
-        <updated>2024-07-19T10:35:43.064Z</updated>
-    </entry>
     <entry>
         <id>http://example.com/2024/07/18/hello-world/</id>
         <title>Hello World</title>
