@@ -5,22 +5,12 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2024/07/19/index/",
-            "url": "http://example.com/2024/07/19/index/",
-            "title": "",
-            "date_published": "2024-07-19T10:35:43.064Z",
-            "content_html": "<p>layout: page</p>\n",
+            "id": "http://example.com/2024/07/22/life/",
+            "url": "http://example.com/2024/07/22/life/",
+            "title": "life",
+            "date_published": "2024-07-22T07:18:33.000Z",
+            "content_html": "",
             "tags": []
-        },
-        {
-            "id": "http://example.com/2024/07/18/hello-world/",
-            "url": "http://example.com/2024/07/18/hello-world/",
-            "title": "Hello World",
-            "date_published": "2024-07-18T13:55:25.217Z",
-            "content_html": "<p>this is a welcome page for this blog.</p>\n<h2 id=\"Quick-Start\"><a href=\"#Quick-Start\" class=\"headerlink\" title=\"Quick Start\"></a>Quick Start</h2><h3 id=\"Create-a-new-post\"><a href=\"#Create-a-new-post\" class=\"headerlink\" title=\"Create a new post\"></a>Create a new post</h3>",
-            "tags": [
-                "page"
-            ]
         }
     ]
 }

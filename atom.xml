@@ -3,23 +3,12 @@
     <id>http://example.com</id>
     <title>Yu_田</title>
     <link href="http://example.com" />
-    <updated>2024-07-19T10:35:43.064Z</updated>
-    <category term="page" />
+    <updated>2024-07-22T07:18:33.000Z</updated>
     <entry>
-        <id>http://example.com/2024/07/19/index/</id>
-        <title></title>
-        <link rel="alternate" href="http://example.com/2024/07/19/index/"/>
-        <content type="html">&lt;p&gt;layout: page&lt;/p&gt;
-</content>
-        <updated>2024-07-19T10:35:43.064Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2024/07/18/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2024/07/18/hello-world/"/>
-        <content type="html">&lt;p&gt;this is a welcome page for this blog.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;</content>
-        <category term="page" />
-        <updated>2024-07-18T13:55:25.217Z</updated>
+        <id>http://example.com/2024/07/22/life/</id>
+        <title>life</title>
+        <link rel="alternate" href="http://example.com/2024/07/22/life/"/>
+        <content type="html"></content>
+        <updated>2024-07-22T07:18:33.000Z</updated>
     </entry>
 </feed>
