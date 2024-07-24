@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Yu_田</title>
+        <title>弘毅阁</title>
         <link>http://example.com</link>
-        <description></description>
+        <description>A place to record fruit of life.</description>
         <language>en</language>
         <pubDate>Mon, 22 Jul 2024 15:18:33 +0800</pubDate>
         <lastBuildDate>Mon, 22 Jul 2024 15:18:33 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">http://example.com/2024/07/22/life/</guid>
-            <title>life</title>
+            <title>Life</title>
             <link>http://example.com/2024/07/22/life/</link>
             <pubDate>Mon, 22 Jul 2024 15:18:33 +0800</pubDate>
             <description><![CDATA[  ]]></description>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Yu_田</title>
+    <title>弘毅阁</title>
     <link href="http://example.com" />
     <updated>2024-07-22T07:18:33.000Z</updated>
     <entry>
         <id>http://example.com/2024/07/22/life/</id>
-        <title>life</title>
+        <title>Life</title>
         <link rel="alternate" href="http://example.com/2024/07/22/life/"/>
         <content type="html"></content>
         <updated>2024-07-22T07:18:33.000Z</updated>

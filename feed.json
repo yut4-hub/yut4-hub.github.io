@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Yu_田",
-    "description": "",
+    "title": "弘毅阁",
+    "description": "A place to record fruit of life.",
     "home_page_url": "http://example.com",
     "items": [
         {
             "id": "http://example.com/2024/07/22/life/",
             "url": "http://example.com/2024/07/22/life/",
-            "title": "life",
+            "title": "Life",
             "date_published": "2024-07-22T07:18:33.000Z",
             "content_html": "",
             "tags": []
