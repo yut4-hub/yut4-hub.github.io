@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "弘毅阁 • All posts by \"world travel\" category",
+    "description": "A place to record fruit of life.",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/08/15/Advanture/",
+            "url": "http://example.com/2024/08/15/Advanture/",
+            "title": "New Advanture",
+            "date_published": "2024-08-15T06:53:16.000Z",
+            "content_html": "<p>&nbsp; &nbsp; &nbsp; &nbsp; It’s been a while since I completed my world travel in 2023. Whenever I recall this amazing experience, I always feel excited and unforgetable. Now, I think it is a good point to write and record my experience as my memory. </p>\n",
+            "tags": [
+                "travel"
+            ]
+        }
+    ]
+}

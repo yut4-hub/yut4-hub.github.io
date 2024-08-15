@@ -3,10 +3,20 @@
     <id>http://example.com</id>
     <title>弘毅阁</title>
     <link href="http://example.com" />
-    <updated>2024-07-26T05:36:11.000Z</updated>
+    <updated>2024-08-15T06:53:16.000Z</updated>
     <category term="thought" />
     <category term="PhD" />
     <category term="work" />
+    <category term="travel" />
+    <entry>
+        <id>http://example.com/2024/08/15/Advanture/</id>
+        <title>New Advanture</title>
+        <link rel="alternate" href="http://example.com/2024/08/15/Advanture/"/>
+        <content type="html">&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; It’s been a while since I completed my world travel in 2023. Whenever I recall this amazing experience, I always feel excited and unforgetable. Now, I think it is a good point to write and record my experience as my memory. &lt;/p&gt;
+</content>
+        <category term="travel" />
+        <updated>2024-08-15T06:53:16.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/07/26/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B8%9A%E7%9A%84%E6%80%9D%E7%B4%A2/</id>
         <title>一些关于学业的思索</title>

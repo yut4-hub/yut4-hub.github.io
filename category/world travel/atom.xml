@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>弘毅阁 • Posts by &#34;world travel&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2024-08-15T06:53:16.000Z</updated>
+    <category term="thought" />
+    <category term="PhD" />
+    <category term="work" />
+    <category term="travel" />
+    <entry>
+        <id>http://example.com/2024/08/15/Advanture/</id>
+        <title>New Advanture</title>
+        <link rel="alternate" href="http://example.com/2024/08/15/Advanture/"/>
+        <content type="html">&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; It’s been a while since I completed my world travel in 2023. Whenever I recall this amazing experience, I always feel excited and unforgetable. Now, I think it is a good point to write and record my experience as my memory. &lt;/p&gt;
+</content>
+        <category term="travel" />
+        <updated>2024-08-15T06:53:16.000Z</updated>
+    </entry>
+</feed>
