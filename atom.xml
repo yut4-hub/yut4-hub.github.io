@@ -3,11 +3,21 @@
     <id>http://example.com</id>
     <title>弘毅阁</title>
     <link href="http://example.com" />
-    <updated>2024-09-03T07:58:31.000Z</updated>
+    <updated>2024-09-04T06:47:47.000Z</updated>
     <category term="thought" />
     <category term="PhD" />
     <category term="work" />
     <category term="travel" />
+    <entry>
+        <id>http://example.com/2024/09/04/Respect-Mountain/</id>
+        <title>🇵🇪 Respect Mountain</title>
+        <link rel="alternate" href="http://example.com/2024/09/04/Respect-Mountain/"/>
+        <content type="html">&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; When I traveled, I collected brace lace for each country. Totally, I visited ten countries and collected ten brace laces. Among all of them, I preferred the one I bought in Peru most. Outside a small store along the street in Cusco, a brace lace with some geometric shapes, continuous triangles, attracted my attention. The sailor told me that means showing respect to mountains. As for a country like Peru, mountains could be found here and there. I believed in that ancestors of Peruvian must appreciated mountains for settlement and fear the disaster caused by them. As for me, I enjoyed traveling inside mountains and visiting mountainous spots, but slightly feared altitude sick.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Leaving for Peru, I was excited again, for it was my first time in the south earth. It would be fun to obtain whirlpool becomes clockwise. Once I landed in Lima, I visited museums to learn its history. Larco Museum was one of my favorites, which demonstrated the whole Peruvian history and culture. Marvelous artworks from different periods made me feel like time traveling.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;em&gt;Machu Pichu: Seven Wonders in the new world&lt;/em&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; k&lt;/p&gt;
+</content>
+        <category term="travel" />
+        <updated>2024-09-04T06:47:47.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/09/03/One-Week-of-Solitude/</id>
         <title>🇨🇴 One Week of Solitude</title>
