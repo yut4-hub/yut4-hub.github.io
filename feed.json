@@ -9,7 +9,7 @@
             "url": "http://example.com/2024/09/11/test2/",
             "title": "Test2",
             "date_published": "2024-09-11T09:30:38.000Z",
-            "content_html": "<p><img src=\"/.com//a.jpg\" alt=\"image\"><br><img src=\"/.com//.%5Ctest2%5Ca.jpg\" alt=\"image\"><br><img scr=\"./test/a.jpg\"></p>\n",
+            "content_html": "<p><img src=\"/2024/09/11/test2/09/11/test2/a.png\" alt=\"image\"><br><img scr=\"./test2/a.png\"></p>\n\n\n",
             "tags": []
         },
         {

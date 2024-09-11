@@ -12,7 +12,9 @@
         <id>http://example.com/2024/09/11/test2/</id>
         <title>Test2</title>
         <link rel="alternate" href="http://example.com/2024/09/11/test2/"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/.com//a.jpg&#34; alt=&#34;image&#34;&gt;&lt;br&gt;&lt;img src=&#34;/.com//.%5Ctest2%5Ca.jpg&#34; alt=&#34;image&#34;&gt;&lt;br&gt;&lt;img scr=&#34;./test/a.jpg&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/2024/09/11/test2/09/11/test2/a.png&#34; alt=&#34;image&#34;&gt;&lt;br&gt;&lt;img scr=&#34;./test2/a.png&#34;&gt;&lt;/p&gt;
+
+
 </content>
         <updated>2024-09-11T09:30:38.000Z</updated>
     </entry>
