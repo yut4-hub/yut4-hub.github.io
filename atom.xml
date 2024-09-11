@@ -3,11 +3,19 @@
     <id>http://example.com</id>
     <title>弘毅阁</title>
     <link href="http://example.com" />
-    <updated>2024-09-11T09:04:41.000Z</updated>
+    <updated>2024-09-11T09:16:50.000Z</updated>
     <category term="thought" />
     <category term="PhD" />
     <category term="work" />
     <category term="travel" />
+    <entry>
+        <id>http://example.com/2024/09/11/test/</id>
+        <title>Test</title>
+        <link rel="alternate" href="http://example.com/2024/09/11/test/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/.com//09/11/test/a.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+</content>
+        <updated>2024-09-11T09:16:50.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/09/11/First-Glance-at-Africa/</id>
         <title>🇹🇿 First Glance at Africa</title>

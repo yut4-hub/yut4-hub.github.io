@@ -5,12 +5,20 @@
         <link>http://example.com</link>
         <description>A place to record fruit of life.</description>
         <language>en</language>
-        <pubDate>Wed, 11 Sep 2024 17:04:41 +0800</pubDate>
-        <lastBuildDate>Wed, 11 Sep 2024 17:04:41 +0800</lastBuildDate>
+        <pubDate>Wed, 11 Sep 2024 17:16:50 +0800</pubDate>
+        <lastBuildDate>Wed, 11 Sep 2024 17:16:50 +0800</lastBuildDate>
         <category>thought</category>
         <category>PhD</category>
         <category>work</category>
         <category>travel</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/09/11/test/</guid>
+            <title>Test</title>
+            <link>http://example.com/2024/09/11/test/</link>
+            <pubDate>Wed, 11 Sep 2024 17:16:50 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/.com//09/11/test/a.JPG&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/09/11/First-Glance-at-Africa/</guid>
             <title>🇹🇿 First Glance at Africa</title>
