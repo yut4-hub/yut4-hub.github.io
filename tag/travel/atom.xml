@@ -3,18 +3,27 @@
     <id>http://example.com</id>
     <title>弘毅阁 • Posts by &#34;travel&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2024-09-10T08:03:29.000Z</updated>
+    <updated>2024-09-11T09:04:41.000Z</updated>
     <category term="thought" />
     <category term="PhD" />
     <category term="work" />
     <category term="travel" />
     <entry>
-        <id>http://example.com/2024/09/10/A-Pause/A-Pause/</id>
+        <id>http://example.com/2024/09/11/First-Glance-at-Africa/</id>
+        <title>🇹🇿 First Glance at Africa</title>
+        <link rel="alternate" href="http://example.com/2024/09/11/First-Glance-at-Africa/"/>
+        <content type="html">&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; In this blog, I will update multiple times from now on once I recall any piece of stories in Zanzibar, Tan. It is really fun that series of experience come back to my mind even years later, right? It is this experience that make me recall stories again and again. Basically, my trip to Tanzania consisted of two parts, volunteering in Zanzibar and road trip crossing the country.&lt;/p&gt;
+</content>
+        <category term="travel" />
+        <updated>2024-09-11T09:04:41.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2024/09/10/A-Pause/</id>
         <title>🇲🇽 🇨🇦 a Pause</title>
-        <link rel="alternate" href="http://example.com/2024/09/10/A-Pause/A-Pause/"/>
+        <link rel="alternate" href="http://example.com/2024/09/10/A-Pause/"/>
         <content type="html">&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; When I was about to leave for Canada, an incident happened. My US visa expired, which could not allow me to transfer my flight in the US. So, I canceled my flight and tried to find a solution. Since I have arranged all my flights, it would be costly if I postpone any part of my trips too much. Luckily, I got a ticket to Cancun, Mexico, and another one from Cancun to Montreal. My Canadian Visa helped me stay one night in Mexico. I had to admit that traveling cost in Cancun was high! Uber was not available at the airport. Taxi to hotel island was expensive, and so was food. However, the beach was clean, and sea water was pure. No doubt that people in the US always took a holiday here. I have never been to Mexico before. All I knew were drug business, Aztek historical spots and illegal immigration stuff. Visiting Mexico helped me know this country a little bit and revise some stereotypes.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; On the next day, I left for Montreal. I planned to visit a couple who were my friends during undergraduate. They lived in Montreal for PhD. I lived at a dorm where ten people shared. I wandered around the city and discovered a lot of French elements on streets.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Then, I took a train to Toronto where I planned to meet Cong and visit Niagara Fall together. However, her flight was canceled due to storm. So, I took a train to Niagara myself. It is so big that the moisture caused by the Fall formed a microenvironment around it. Basically, it was a sunny day, but it rained nearby.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Staying for five days, I well-prepared for my next journey: Africa!!! That was the most expected part in my tour!&lt;/p&gt;
 
-&lt;img src height=&#34;200&#34; width=&#34;100&#34;&gt;</content>
+&lt;img src=&#34;&#34; height=&#34;200&#34; width=&#34;100&#34; /&gt;</content>
         <category term="travel" />
         <updated>2024-09-10T08:03:29.000Z</updated>
     </entry>
